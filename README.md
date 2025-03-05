@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Complete universe project with java](https://github.com/alimirjavadi/Java-Project)
 
-- 🌱 I’m currently learning **Django Framework and Machine Learning**
+- 🌱 I’m currently learning **Php for Fullstack-Develooper**
 
 - 🤝 You can see my tutorials on my YouTube channel [alimirjavadi](https://www.youtube.com/@alimirjavadi)
 
