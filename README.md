@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/alimirjavadi](https://github.com/alimirjavadi)
 
-- 💬 Ask me about **Java , C#**
+- 💬 Ask me about **Java , PHP **
 
 - 📫 How to reach me **sydlymyrjwady@gmail.com**
 
